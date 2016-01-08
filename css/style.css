@@ -1,0 +1,189 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+body {
+  font-family: "Noto Sans Japanese", "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #FCFCFC;
+  margin: 0px;
+  font-size: 14px; }
+
+h1, h2, h3, h4, p {
+  margin: 0;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px; }
+
+ul {
+  list-style: none; }
+
+h1 {
+  font-size: 2.4rem;
+  line-height: 1.35;
+  letter-spacing: -.08rem; }
+
+h2 {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  letter-spacing: -.05rem; }
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  letter-spacing: 0; }
+
+img {
+  max-width: 400px;
+  height: auto;
+  margin: 20px 0; }
+
+.navtitle {
+  font-family: 'Montserrat', sans-serif;
+  border-top: 1px solid #A1AB9B;
+  border-bottom: 1px solid #A1AB9B;
+  margin-bottom: 20px; }
+
+a {
+  text-decoration: none; }
+
+a:link {
+  color: #222; }
+
+a:visited {
+  color: #222; }
+
+a:hover {
+  color: #0044CC;
+  position: relative;
+  top: 1px;
+  left: 1px; }
+
+a:active {
+  color: #0044CC; }
+
+.color {
+  color: #222; }
+
+.excerpt {
+  color: #96A1AD;
+  margin-bottom: 20px; }
+
+.entry li {
+  margin-bottom: 20px; }
+
+.header {
+  padding-bottom: 45px;
+  padding-top: 20px;
+  display: table;
+  margin: 0 auto 0 auto;
+  width: 800px; }
+
+#container {
+  width: 800px;
+  display: table;
+  margin: 0 auto 0 auto; }
+
+#wrapper {
+  display: table-cell; }
+
+#sidebar {
+  display: table-cell;
+  width: 200px; }
+
+.nav {
+  text-align: center; }
+
+.topa:hover {
+  position: static; }
+
+.topimg {
+  width: 40px; }
+
+.topdate {
+  color: #96A1AD;
+  margin-bottom: 20px; }
+
+.photo {
+  width: auto;
+  height: 100px;
+  margin-bottom: 20px; }
+
+.sitetitle {
+  background-image: url("../images/logo.png");
+  background-repeat: no-repeat;
+  background-size: 50px;
+  background-position: left center;
+  height: 50px;
+  padding-left: 60px;
+  padding-top: 20px; }
+
+hr {
+  border-top: 1px solid #A1AB9B;
+  width: 800px; }
+
+footer {
+  text-align: center;
+  margin-bottom: 40px; }
+
+.pagesection {
+  margin-top: 2rem; }
+
+.page-title {
+  position: relative;
+  padding: 0 .5em .5em 2em; }
+
+.page-title::before,
+.page-title::after {
+  position: absolute;
+  content: '';
+  border-radius: 100%; }
+
+.page-title::before {
+  top: .2em;
+  left: .2em;
+  z-index: 2;
+  width: 18px;
+  height: 18px;
+  background: rgba(234, 147, 145, 0.5); }
+
+.page-title::after {
+  top: .7em;
+  left: .7em;
+  width: 13px;
+  height: 13px;
+  background: rgba(242, 190, 189, 0.5); }
+
+.page_section {
+  margin-left: 20px;
+  margin-right: 20px; }
+
+.page {
+  display: table;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px; }
+
+.page div {
+  width: 40%; }
+
+.mail {
+  width: 70%; }
+
+.main {
+  padding: 0px 20px; }
+
+.about_pic {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.entry {
+  margin-bottom: 40px; }
+
+.catedate {
+  text-align: right;
+  border-top: 1px solid #A1AB9B;
+  padding-right: 20px; }
+
+/*# sourceMappingURL=style.css.map */

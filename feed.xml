@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>娘さんの</title>
+    <description>折り紙とかつまみ細工とかの作品サイト。</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 08 Jan 2016 10:30:44 +0900</pubDate>
+    <lastBuildDate>Fri, 08 Jan 2016 10:30:44 +0900</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>つまみ細工（第一弾）</title>
+        <description>&lt;p&gt;大して寒くないかも～と思っていたら、冷え込みが強くなってきましたね。&lt;br&gt;
+冬休み、実家に帰っていた娘さんも戻ってきました。&lt;br&gt;
+お友だちから勧められ、私がつまみ細工を始めたところ、娘も興味を持ったようで、&lt;br&gt;
+ふたりでつまつましてました。&lt;br&gt;
+キャンドゥで買ったちりめんです。&lt;br&gt;
+参照サイトはこちら：&lt;a href=&quot;http://shitate.org/obisin-tsumamizaiku/&quot;&gt;http://shitate.org/obisin-tsumamizaiku/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;娘さん、初めてのつまみ細工↓↓&lt;br&gt;
+&lt;img src=&quot;/images/portfolio/20160107-tsumami1.jpg&quot; alt=&quot;初めてのつまみ細工&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;早速、明日学校につけていくそうです。&lt;/p&gt;
+
+&lt;p&gt;私もやったのですが、難しいですね…&lt;br&gt;
+動画や本で見る限り、さささ～と出来そうな感じなのに（笑）&lt;br&gt;
+布がずれてなかなかくっつかないし、&lt;br&gt;
+高さは揃わないし、幅も揃わないし、土台からお尻がはみだしちゃうし。&lt;br&gt;
+うーん&lt;br&gt;
+これが続けていくとどれくらいうまくなるのか。伸びしろはとっても大きいので愉しみです（笑）&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0900</pubDate>
+        <link>http://yourdomain.com/2016/01/07/title.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/07/title.html</guid>
+        
+        <category>つまみ細工</category>
+        
+        
+        <category>kanzashi</category>
+        
+      </item>
+    
+      <item>
+        <title>きのこ（絵心教室）</title>
+        <description>&lt;p&gt;絵心教室で描いた、きのこ。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/20150509-kinoko1.jpg&quot; alt=&quot;絵心教室：きのこ&quot;&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 May 2015 00:00:00 +0900</pubDate>
+        <link>http://yourdomain.com/2015/05/09/title.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/05/09/title.html</guid>
+        
+        <category>静物</category>
+        
+        
+        <category>picture</category>
+        
+      </item>
+    
+      <item>
+        <title>あいちゃん</title>
+        <description>&lt;p&gt;ドキドキ！プリキュアのあいちゃん。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/20141121-1.jpg&quot; alt=&quot;ドキドキ！プリキュアのあいちゃん&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;参照：&lt;a href=&quot;http://amigori.seesaa.net/article/363085456.html&quot;&gt;http://amigori.seesaa.net/article/363085456.html&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Oct 2014 00:00:00 +0900</pubDate>
+        <link>http://yourdomain.com/2014/10/21/title.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/10/21/title.html</guid>
+        
+        <category>キャラクター</category>
+        
+        
+        <category>origami</category>
+        
+      </item>
+    
+      <item>
+        <title>発掘</title>
+        <description>&lt;p&gt;発掘絵。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/20110910-1.jpg&quot; alt=&quot;発掘絵&quot;&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Sep 2011 00:00:00 +0900</pubDate>
+        <link>http://yourdomain.com/2011/09/10/title.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2011/09/10/title.html</guid>
+        
+        <category>家族</category>
+        
+        
+        <category>picture</category>
+        
+      </item>
+    
+  </channel>
+</rss>
