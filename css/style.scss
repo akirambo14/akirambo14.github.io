@@ -12,7 +12,7 @@ ul { list-style: none;}
 h1 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
 h2 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h3 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
-img { max-width: 400px; height: auto; margin: 20px 0 ;}
+img { max-width: 300px; height: auto; margin: 20px 0 ;}
 .navtitle{ font-family: 'Montserrat', sans-serif; 
 border-top: 1px solid #A1AB9B;
 border-bottom: 1px solid #A1AB9B;
@@ -76,11 +76,11 @@ footer { text-align: center; margin-bottom: 40px;}
 	height: 13px;
 	background: rgba(242, 190, 189, .5);
 }
-.page_section{ margin-left: 20px; margin-right: 20px;}
+.page_section{ margin-left: 0px; margin-right: 20px;}
 .page { display: table; width: 80%; margin-left: auto; margin-right: auto; margin-top: 20px;}
 .page div { width: 40%;}
 .mail { width: 70%; }
-.main { padding: 0px 20px;}
+.main { padding: 0px 0px;}
 .about_pic { width: 150px; display: block; margin-left: auto; margin-right: auto;}
 .entry { margin-bottom: 40px; }
 .catedate {text-align: right;border-top: 1px solid #A1AB9B; padding-right: 20px;}
